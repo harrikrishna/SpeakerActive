@@ -16,13 +16,13 @@ Unfortunately however I'm not on the Apple Developer Program so haven’t been a
 
 The reason this is version 2.0 is because I made the original version around 3 years ago and it’s lived in my menu bar ever since. It was just a basic on/off loop button but I’ve used it pretty much every day ever since, so I figured someone else out there might be looking for something similar.
 
-As a bit of a portfolio project I’ve given it a proper interface/array of options etc (I’m not much of a coder but have managed to figure out SwiftUI through endless googling). It'll only work on macOS Ventura I'm afraid (it uses MenuBarExtra, a fairly new SwiftUI addition) so if you’re on an older version and want something like this let me know and I can send the original basic toggle.
+As a bit of a portfolio project I’ve given it a proper interface/array of options etc - it'll only work on macOS Ventura I'm afraid (it uses MenuBarExtra, a fairly new SwiftUI addition) so if you’re on an older OS and want something similar, let me know and I'll upload the original basic toggle.
 
 ![Screenshot 3](https://i.imgur.com/AzQgyiY.png)
 
 ## Contact
 
-There’s some troubleshooting notes in the app itself and it all works fine for my own speakers (KRK Rokits), but if it doesn’t fix your annoying speaker problems then apologies for giving you false hope. If you notice any small bugs or anything that needs fixing, feel free to get in touch at: <harrilyons@gmail.com> and I’ll see if I can sort it out.
+There’s some troubleshooting notes in the app itself and it all works fine for my own speakers, but if it doesn’t fix your annoying speaker problems then apologies for giving you false hope. If you notice any bugs or anything that needs fixing, feel free to get in touch at: <harrilyons@gmail.com> and I’ll see if I can sort it out.
 
 
 
