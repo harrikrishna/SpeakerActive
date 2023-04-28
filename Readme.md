@@ -6,7 +6,7 @@ Do you have external speakers which regularly shut down when in use at low volum
 
 ## Installation
 
-I haven’t got a paid Apple developer account so haven’t been able to notarise the app - you may have to click through warning messages on both the download and installation. If you haven’t installed an app from an unauthorised developer before please see the accompanying Installation doc (it’s really easy).
+I haven’t got a paid Apple developer account so haven’t been able to sign/notarise the app - you may have to click through warning messages on both the download and installation. If you haven’t installed an app from an unauthorised developer before please see the accompanying Installation doc (it’s really easy).
 
 ![Screenshot 2](https://i.imgur.com/QrSH6zY.png)
 
@@ -20,7 +20,7 @@ As a bit of a portfolio project I’ve given it a proper interface/array of opti
 
 ## Contact
 
-There’s some troubleshooting notes in the app itself and it works fine for me, but if it doesn’t fix your annoying speaker problems then apologies for giving you false hope. If you notice any bugs or anything that needs fixing, feel free to get in touch at: <harrilyons@gmail.com> and I’ll see if I can sort it out.
+There’s some troubleshooting notes in the app itself and it all works fine for my own speakers (KRK Rokits), but if it doesn’t fix your annoying speaker problems then apologies for giving you false hope. If you notice any small bugs or anything that needs fixing, feel free to get in touch at: <harrilyons@gmail.com> and I’ll see if I can sort it out.
 
 
 
