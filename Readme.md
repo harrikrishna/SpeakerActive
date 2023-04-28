@@ -6,7 +6,9 @@ Do you have external speakers which regularly shut down when in use at low volum
 
 ## Installation
 
-I haven’t got a paid Apple developer account so haven’t been able to sign/notarise the app - you may have to click through warning messages on both the download and installation. If you haven’t installed an app from an unauthorised developer before please see the accompanying Installation doc (it’s really easy).
+It should be as easy as going to the Releases section on your right, downloading and opening the .zip file, then dragging the app to your Applications folder.
+
+Unfortunately however I'm not on the Apple Developer Program so haven’t been able to sign/notarise the app - you may have to click through warning messages on both the download and installation. If you haven’t installed an app from an unauthorised developer before please see the accompanying Installation doc (it’s really easy).
 
 ![Screenshot 2](https://i.imgur.com/QrSH6zY.png)
 
