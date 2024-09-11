@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/HHl6jza.png)
+![Banner](https://i.imgur.com/CvXugwV.png)
 
 Do you have external speakers which regularly shut down due to power-saving constraints, even when in use at low volume? I do and it’s really annoying, so I made this app out of frustration. It lives in your macOS menu bar and prevents power-saving switch-offs by playing an inaudible, low-frequency tone at regular intervals.
 
