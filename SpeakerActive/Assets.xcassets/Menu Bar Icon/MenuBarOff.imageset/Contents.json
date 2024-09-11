@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "MenuBarOff.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "automatic",
+    "template-rendering-intent" : "template"
+  }
+}
